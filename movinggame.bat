@@ -1,5 +1,5 @@
 @echo off
-title game
+title Moving Game
 
 echo Displaying coordinates
 
